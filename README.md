@@ -11,3 +11,4 @@ Belajar JavaScript selama 30 hari spesial Ramadhan
 | 4 | Membuat Popup, Undefined. Null, Switch Expression, typeof Pada JavaScript | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-4-25797cb2f622) |
 | 5 | In Operator, Ternary, Nullish Coalescing, Optional Chaining, Falsy dan Truthy | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-5-487a100be78d) |
 | 6 | Operator Logika di Non Boolean, For Loop, While Loop, Do While Loop, Break dan Continue | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-6-996fde2daca4)|
+| 7 | Label, For In, For Of, With Statement, Function pada JavaScript | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-7-57dfd23b5fa0)|
