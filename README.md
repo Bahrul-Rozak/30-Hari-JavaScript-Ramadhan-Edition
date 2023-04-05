@@ -12,3 +12,4 @@ Belajar JavaScript selama 30 hari spesial Ramadhan
 | 5 | In Operator, Ternary, Nullish Coalescing, Optional Chaining, Falsy dan Truthy | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-5-487a100be78d) |
 | 6 | Operator Logika di Non Boolean, For Loop, While Loop, Do While Loop, Break dan Continue | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-6-996fde2daca4)|
 | 7 | Label, For In, For Of, With Statement, Function pada JavaScript | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-7-57dfd23b5fa0)|
+| 8 | Function Parameter, Function Return Value, Optional Parameter, Default Parameter, Function sebagai Value | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-8-dddb681b7b4) |
