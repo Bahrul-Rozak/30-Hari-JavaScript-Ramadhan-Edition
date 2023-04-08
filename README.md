@@ -15,3 +15,4 @@ Belajar JavaScript selama 30 hari spesial Ramadhan
 | 8 | Function Parameter, Function Return Value, Optional Parameter, Default Parameter, Function sebagai Value | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-8-dddb681b7b4) |
 | 9 | Anonymous Function, Inner Function, Scope Function, Recursive Function, Function Generator | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-9-e86c7eba3ef2) |
 | 10 | Arrow Function, Closure, Object Method, This Keyword, Arrow Function as Object | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-10-b07812f55abf) |
+| 11 | Getter dan Setter, Var Problem, Destructuring, Strict Mode and Spread Operator | [Pelajar Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-11-a88ca65f578b) |
