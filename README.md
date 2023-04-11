@@ -17,3 +17,4 @@ Belajar JavaScript selama 30 hari spesial Ramadhan
 | 10 | Arrow Function, Closure, Object Method, This Keyword, Arrow Function as Object | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-10-b07812f55abf) |
 | 11 | Getter dan Setter, Var Problem, Destructuring, Strict Mode and Spread Operator | [Pelajar Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-11-a88ca65f578b) |
 | 12 | Map, Set, Splicing Array, Sorting Array, Joining Array | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-12-8ac337b81878)|
+| 13 | Apa itu Object Oriented Programming? | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-13-a59aaec51ada)|
