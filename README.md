@@ -18,3 +18,4 @@ Belajar JavaScript selama 30 hari spesial Ramadhan
 | 11 | Getter dan Setter, Var Problem, Destructuring, Strict Mode and Spread Operator | [Pelajar Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-11-a88ca65f578b) |
 | 12 | Map, Set, Splicing Array, Sorting Array, Joining Array | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-12-8ac337b81878)|
 | 13 | Apa itu Object Oriented Programming? | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-13-a59aaec51ada)|
+| 14 | Constructor function, property method param and inherintace at constructor function | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-14-fda19d62e2a) |
