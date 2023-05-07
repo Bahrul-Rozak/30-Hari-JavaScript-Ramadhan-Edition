@@ -25,3 +25,4 @@ Belajar JavaScript selama 30 hari spesial Ramadhan
 | 18 | Static Method pada JavaScript, Error pada JavaScript, Error Handling pada JavaScript, Manual Class Error pada JavaScript, Built in Class pada JavaScript | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-18-3da5bd48f205) | 
 | 19 | Mengenal Functional Programming pada JavaScript, Pure Function Pada JavaScript, Immutability pada JavaScript, Recursive pada JavaScript, High Order Function pada JavaScript | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-19-ae6de19c0287)|
 | 20 | JavaScript Module Part : 1 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-20-javascript-module-part-1-8706b15f966a)|
+| 21 | JavaScript Module Part : 2 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-21-javascript-module-part-2-8349f26ad88e)|
