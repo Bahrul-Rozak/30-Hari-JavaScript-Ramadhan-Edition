@@ -26,3 +26,4 @@ Belajar JavaScript selama 30 hari spesial Ramadhan
 | 19 | Mengenal Functional Programming pada JavaScript, Pure Function Pada JavaScript, Immutability pada JavaScript, Recursive pada JavaScript, High Order Function pada JavaScript | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-19-ae6de19c0287)|
 | 20 | JavaScript Module Part : 1 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-20-javascript-module-part-1-8706b15f966a)|
 | 21 | JavaScript Module Part : 2 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-21-javascript-module-part-2-8349f26ad88e)|
+| 22 | JavaScript Module Part : 3 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-22-javascript-module-part-3-d7d35f7e63e7)|
