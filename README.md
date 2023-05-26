@@ -1,6 +1,16 @@
 # 30-Hari-JavaScript-Ramadhan-Edition
 
-Belajar JavaScript selama 30 hari spesial Ramadhan
+Selamat datang di repository 30 hari belajar javascript. Repository ini dibuat untuk siapa saja yang ingin belajar konsep-konsep dasar pemrograman JavaScript. Semoga dengan adanya Referensi ini dapat menambahkan insight seputar dunia per javascript an di Indonesia. 
+
+
+### Bagaimana cara saya berkontribusi?
+Jika teman-teman ingin berkontribusi pada repository ini, teman-teman bisa menyebarkan link repo ini agar semakin banyak yang menerima manfaat dari repository ini. 
+
+
+### Note
+Jangan lupa untuk ⭐ repository, karena dengan ⭐ repository ini, secara tidak langsung kamu menambahkan semangat penulis, untuk lebih banyak berbuat hal baik lagi. Terima Kasih
+
+
 
 | Hari ke | Topik Pembahasan | Link Module |
 | ------- | ---------------- | ----------- |
