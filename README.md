@@ -45,3 +45,6 @@ Jangan lupa untuk ⭐ repository, karena dengan ⭐ repository ini, secara tidak
 | 28 | Berkenalan dengan Tenaga Asycn : Part-1 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-28-berkenalan-dengan-tenaga-asycn-part-1-dfdc00c4fce3)|
 | 29 | Berkenalan dengan Tenaga Async : Part-2 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-29-berkenalan-dengan-tenaga-asycn-part-2-8f965326814e)|
 | 30 | Berkenalan dengan Tenaga Async : Part-3 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-30-berkenalan-dengan-tenaga-asycn-part-3-14dbd9b95c16)|
+
+
+## Dibuat dengan 🧡 oleh Bahrul Rozak untuk Rakyat Indonesia
