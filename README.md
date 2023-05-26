@@ -33,3 +33,4 @@ Belajar JavaScript selama 30 hari spesial Ramadhan
 | 26 | JavaScript DOM Part : 4 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-26-javascript-dom-part-4-b62b4c1833c4)|
 | 27 | JavaScript DOM Part : 5 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-27-javascript-dom-part-5-f5ec91adf08f)|
 | 28 | Berkenalan dengan Tenaga Asycn : Part-1 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-28-berkenalan-dengan-tenaga-asycn-part-1-dfdc00c4fce3)|
+| 29 | Berkenalan dengan Tenaga Async : Part-2 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-29-berkenalan-dengan-tenaga-asycn-part-2-8f965326814e)|
