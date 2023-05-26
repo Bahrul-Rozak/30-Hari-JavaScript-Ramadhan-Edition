@@ -31,3 +31,4 @@ Belajar JavaScript selama 30 hari spesial Ramadhan
 | 24 | JavaScript DOM Part : 2 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-24-javascript-dom-part-2-57388229b820)|
 | 25 | JavaScript DOM Part : 3 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-25-javascript-dom-part-3-8cebaa90881)|
 | 26 | JavaScript DOM Part : 4 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-26-javascript-dom-part-4-b62b4c1833c4)|
+| 27 | JavaScript DOM Part : 5 | [Pelajari Sekarang](https://medium.com/@bahrulrozak/30-hari-belajar-javascript-hari-ke-27-javascript-dom-part-5-f5ec91adf08f)|
